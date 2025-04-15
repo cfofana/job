@@ -17,6 +17,12 @@ ol li {
 ul li {
     list-style: none;
 }
+h2 {
+    margin-top: 1em;
+}
+.more-info li {
+    list-style: none;
+}
 footer {
     text-align: center;
     font-size: 1rem;
