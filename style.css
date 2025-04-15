@@ -1,0 +1,30 @@
+body {
+    background-color: #add7d3;
+    margin: 3em 5em 1em;
+    width: 75%;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+.header {
+    background-color: white;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+ol li {
+    margin-bottom: 1em;
+}
+ul li {
+    list-style: none;
+}
+footer {
+    text-align: center;
+}
+footer a {
+    color: #d46608;
+    text-decoration: none;
+}
+footer a:hover,
+footer a:focus {
+    opacity: 0.75;
+}
